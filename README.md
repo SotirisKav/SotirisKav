@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hello, I'm Sotiris!
 
 I'm a 4th-year Electrical & Computer Engineering undergraduate student at the National Technical University of Athens (NTUA). My primary focus is on **Software Development, Computer Systems, and Computer Networks**.
