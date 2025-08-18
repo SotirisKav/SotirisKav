@@ -1,7 +1,7 @@
 # About Me:
 👋 Hello, I'm Sotiris!
 
-I'm a 4th-year Electrical & Computer Engineering undergraduate student at the National Technical University of Athens (NTUA). My primary focus is on **Software Development, Computer Systems, and Computer Networks**.
+I'm a 4th-year Electrical & Computer Engineering undergraduate student at the National Technical University of Athens (NTUA). My primary focus is on **Software Development, Computing Systems, and Computer Networks**.
 
 I am passionate about building reliable, scalable software and understanding how complex systems work together. I enjoy designing and implementing solutions that oftentimes include AI integration and solve real-world problems.
 
